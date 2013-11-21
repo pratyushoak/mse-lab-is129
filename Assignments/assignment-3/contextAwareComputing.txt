@@ -1,0 +1,13 @@
+Q3>Give an example of an application simulating an environment of  context aware computing and justify.
+
+
+Context-Awareness
+In the early days of computing, the context in which systems were used was strongly defined by the place in which computers were set up.Personal computers were used in office environments or on factory floors. The context of use did not change much, and there was little variance in the situations surrounding the computer. Hence, there was no need to adapt to different environments. Many traditional methods in the discipline of Human-Computer Interaction (HCI), such as contextual inquiry or task analysis, have their origin in this period and are most easy to use in situations that do not constantly change. With the rise of mobile computers and ubiquitous computing, this changed. Users take computers with them and use them in many different situations.
+In his 1994 paper at the Workshop on Mobile Computing Systems and Applications (WMCSA), Bill Schilit introduces the concept of context-aware computing and describes it as follows:
+" Such context-aware software adapts according to the location of use, the collection of nearby people, hosts, and accessible devices, as well as to changes to such things over time. A system with these capabilities can examine the computing environment and react to changes to the environment."
+
+Example of an application simulating an environment of context aware computing:
+
+Satellite Navigation System as context-aware system
+In a Satellite Navigation System (SatNav), the current location is the primary contextual parameter that is used to automatically adjust the visualization (e.g. map, arrows, directions…) to the user’s current location. However, looking at current commercial systems, much more context information is used and much of visualization has been changed. In addition to the current GPS position, contextual parameters may include the time of day, light conditions, the traffic situation on the calculated route or the user’s preferred places. Beyond the visualization and whether or not to switch on the backlight, the calculated route can be influenced by context, e.g. to avoid potentially busy streets at that time of day.
+Google maps,Nokia maps, the weather apps in Android, iOS devices,etc are examples of these.
