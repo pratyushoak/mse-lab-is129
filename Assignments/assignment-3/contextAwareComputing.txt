@@ -8,6 +8,6 @@ In his 1994 paper at the Workshop on Mobile Computing Systems and Applications (
 
 Example of an application simulating an environment of context aware computing:
 
-Satellite Navigation System as context-aware system
+Satellite Navigation System as context-aware system:
 In a Satellite Navigation System (SatNav), the current location is the primary contextual parameter that is used to automatically adjust the visualization (e.g. map, arrows, directions…) to the user’s current location. However, looking at current commercial systems, much more context information is used and much of visualization has been changed. In addition to the current GPS position, contextual parameters may include the time of day, light conditions, the traffic situation on the calculated route or the user’s preferred places. Beyond the visualization and whether or not to switch on the backlight, the calculated route can be influenced by context, e.g. to avoid potentially busy streets at that time of day.
 Google maps,Nokia maps, the weather apps in Android, iOS devices,etc are examples of these.
