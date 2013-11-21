@@ -1,0 +1,18 @@
+Mobile Computing vs Cloud Computing:
+
+
+In today’s tech speak, the terms “mobile cloud” and “cloud computing” seem to be used interchangeably. As a result, the meanings are often confused, and their actual functionality jumbled.
+
+Cloud Computing:
+Cloud computing is an expression used to describe a variety of computing concepts that involve a large number of computers connected through a real-time communication network such as the Internet.In science, cloud computing is a synonym for distributed computing over a network, and means the ability to run a program or application on many connected computers at the same time. The phrase also more commonly refers to network-based services, which appear to be provided by real server hardware, and are in fact served up by virtual hardware, simulated by software running on one or more real machines. Such virtual servers do not physically exist and can therefore be moved around and scaled up (or down) on the fly without affecting the end user - arguably, rather like a cloud.
+Cloud computing is the practice of using a network of remote servers to deliver hosted services via the Internet (public or private), rather than delivering the services from a local onsite server. Cloud services are used today to store, manage, and process a wide variety of data applications. Cloud computing has taken the industry by storm because it enables greater accessibility, mobility, subscription based pricing, and real-time access to information—all without requiring investment in infrastructure.
+
+Mobile "Cloud" Computing:
+
+Mobile computing is human–computer interaction by which a computer is expected to be transported during normal usage. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
+
+As cloud computing offers enterprises the freedom to access hosted services that are traditionally delivered through a wired connection, the mobile cloud focuses on services available through mobile network operators (MNOs like Verizon and AT&T). for example, those applications we constantly use on our smart devices – apps that include elements of location, mobile messaging, mobile shopping, or even gaming. 
+
+The bulk of their functionality isn’t tied to our physical mobile device, but hosted in the mobile cloud and delivered across MNOs.This is done through the Mobile Cloud.The providers of these services keep things uniform and access the same information across multiple operators.The Mobile Cloud is also the means by which they effectively manage opt in and privacy.
+
+The mobile cloud as an enabler of intelligent mobile communication. The mobile cloud is less about virtual hosting, and more about intelligent connectivity. The mobile ecosystem is incredibly complex; application developers, brands, mobile marketers and content owners are all trying to deliver their services to subscribers ubiquitously, regardless of the user’s MNO. Rather than providing the individual, hosted services cloud computing typically offers, the mobile cloud allows developers to offer an array of services from MNOs. The mobile cloud blends the features of location, messaging, subscriber information, etc. from each operator. The benefit to developers is enormous. Not only are they able to maintain that trusted relationship with their MNO, but they are also able to access multiple services and operators through one provider.
